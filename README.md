@@ -17,7 +17,7 @@ Copy từ `dsa/_template.py` hoặc `sql/_template.sql` để có sẵn header (
 
 | Phần | Đã giải |
 |---|---|
-| SQL | 0 |
+| SQL | 1 |
 | DSA | 0 |
 
 ## Commit message
